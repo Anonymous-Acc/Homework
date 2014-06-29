@@ -1,0 +1,7 @@
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\bin\Release\Factorial.exe.config
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\bin\Release\Factorial.exe
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\bin\Release\Factorial.pdb
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\bin\Release\log4net.dll
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\bin\Release\log4net.xml
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\obj\Release\Factorial.exe
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\Factorial\obj\Release\Factorial.pdb

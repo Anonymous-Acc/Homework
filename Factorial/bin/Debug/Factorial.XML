@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Factorial</name>
+    </assembly>
+    <members>
+        <member name="T:Factorial.CountFactorial">
+            <summary>
+            The class that tests the factorial of a number.
+            </summary>
+        </member>
+        <member name="F:Factorial.CountFactorial.Log">
+            <summary>
+            Logger that logs the errors, warnings, etc.
+            </summary>
+        </member>
+        <member name="M:Factorial.CountFactorial.Main">
+            <summary>
+            The main method that tests the functionality of the program.
+            </summary>
+        </member>
+        <member name="M:Factorial.CountFactorial.Factorial(System.Numerics.BigInteger)">
+            <summary>
+            Returns the factorial of the input number using recursion.
+            </summary>
+            <param name="number">the input number</param>
+            <returns>the factorial of the input number</returns>
+        </member>
+    </members>
+</doc>

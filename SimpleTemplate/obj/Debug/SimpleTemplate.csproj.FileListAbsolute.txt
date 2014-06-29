@@ -1,0 +1,6 @@
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\SimpleTemplate\bin\Debug\SimpleTemplate.exe.config
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\SimpleTemplate\bin\Debug\SimpleTemplate.exe
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\SimpleTemplate\bin\Debug\SimpleTemplate.pdb
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\SimpleTemplate\obj\Debug\SimpleTemplate.exe
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\SimpleTemplate\obj\Debug\SimpleTemplate.pdb
+F:\Programs\Microsoft Visual Studio 2013\Projects\C#\Factorial\SimpleTemplate\obj\Debug\SimpleTemplate.csprojResolveAssemblyReference.cache
